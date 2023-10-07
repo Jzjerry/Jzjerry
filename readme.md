@@ -5,7 +5,7 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,16 +48,21 @@ Sunday                   57 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 38 mins        █████████████████░░░░░░░░   69.77 % 
+Python                   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Ezhil                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+CBM BASIC V2             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+oj_problems              1 hr 48 mins        ███████████████████░░░░░░   76.74 % 
+Lab                      32 mins             ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      2 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -77,5 +82,5 @@ Stylus                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jzjerry/Jzjerry/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2023 18:33:54 UTC
+ Last Updated on 07/10/2023 18:32:26 UTC
 <!--END_SECTION:waka-->

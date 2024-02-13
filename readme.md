@@ -48,17 +48,16 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   0 secs              ███████████████████░░░░░░   74.95 % 
-JSON                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-VexRiscv-DSE             1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -78,5 +77,5 @@ Stylus                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jzjerry/Jzjerry/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2024 18:32:10 UTC
+ Last Updated on 13/02/2024 18:34:24 UTC
 <!--END_SECTION:waka-->

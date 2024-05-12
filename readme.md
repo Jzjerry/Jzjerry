@@ -13,8 +13,6 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 
 > 📦 60.2 kB Used in GitHub's Storage 
  > 
-> 🏆 168 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 23 Public Repositories 
@@ -86,5 +84,5 @@ Stylus                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jzjerry/Jzjerry/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2024 18:32:31 UTC
+ Last Updated on 12/05/2024 18:34:17 UTC
 <!--END_SECTION:waka-->

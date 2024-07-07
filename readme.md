@@ -13,6 +13,8 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 
 > 📦 60.9 kB Used in GitHub's Storage 
  > 
+> 🏆 272 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -84,5 +86,5 @@ Verilog                  5 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jzjerry/Jzjerry/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2024 18:35:11 UTC
+ Last Updated on 07/07/2024 18:35:04 UTC
 <!--END_SECTION:waka-->

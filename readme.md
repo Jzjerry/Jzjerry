@@ -5,9 +5,9 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **I'm an Early 🐤** 
 
@@ -63,5 +63,5 @@ Verilog                  5 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 14/07/2024 00:53:19 UTC
+ Last Updated on 14/07/2024 18:47:22 UTC
 <!--END_SECTION:waka-->

@@ -7,7 +7,7 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -62,5 +62,5 @@ C                        6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 27/07/2024 18:36:43 UTC
+ Last Updated on 28/07/2024 18:37:23 UTC
 <!--END_SECTION:waka-->

@@ -5,7 +5,7 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C009%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C010%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -36,13 +36,17 @@ Sunday                   99 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    26 mins             █████████████████████████   100.00 % 
+Python                   1 hr 21 mins        ██████████████████░░░░░░░   73.25 % 
+Other                    26 mins             ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      26 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 25 mins        ███████████████████░░░░░░   76.53 % 
+WSL                      26 mins             ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
 ```
 
 **I Mostly Code in Python** 
@@ -58,5 +62,5 @@ Verilog                  6 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 07/02/2025 18:41:48 UTC
+ Last Updated on 08/02/2025 18:38:56 UTC
 <!--END_SECTION:waka-->

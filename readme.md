@@ -5,9 +5,9 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C325%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C329%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **I'm an Early 🐤** 
 
@@ -36,17 +36,17 @@ Sunday                   98 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Scala                    8 hrs 45 mins       ███████████████░░░░░░░░░░   58.48 % 
-C                        1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Python                   1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Makefile                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Scala                    9 hrs 24 mins       ███████████████░░░░░░░░░░   61.84 % 
+Python                   1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+C                        46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      14 hrs 58 mins      █████████████████████████   100.00 % 
+WSL                      15 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ C++                      7 repos             ████░░░░░░░�
 
 
 
- Last Updated on 29/05/2025 18:47:26 UTC
+ Last Updated on 30/05/2025 18:47:15 UTC
 <!--END_SECTION:waka-->

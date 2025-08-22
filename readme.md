@@ -5,7 +5,7 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C468%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C472%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
 
@@ -36,13 +36,17 @@ Sunday                   114 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Scala                    3 hrs 48 mins       ███████████████████████░░   92.63 % 
+V                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+CMake                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      4 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -58,5 +62,5 @@ C++                      7 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 21/08/2025 18:46:34 UTC
+ Last Updated on 22/08/2025 18:46:37 UTC
 <!--END_SECTION:waka-->

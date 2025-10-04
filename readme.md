@@ -5,6 +5,8 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C545%20hrs%2012%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I Mostly Code in Python** 
@@ -20,5 +22,5 @@ C++                      8 repos             ████░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 18:44:59 UTC
+ Last Updated on 04/10/2025 18:42:21 UTC
 <!--END_SECTION:waka-->

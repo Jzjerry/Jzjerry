@@ -5,7 +5,7 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **I Mostly Code in C** 
 
@@ -20,5 +20,5 @@ Verilog                  8 repos             ████░░░░░░░�
 
 
 
- Last Updated on 01/11/2025 18:42:29 UTC
+ Last Updated on 02/11/2025 18:42:42 UTC
 <!--END_SECTION:waka-->

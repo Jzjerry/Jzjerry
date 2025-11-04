@@ -5,7 +5,45 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C566%20hrs%2011%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+🌆 Daytime                966 commits         █████████████░░░░░░░░░░░░   51.96 % 
+🌃 Evening                758 commits         ██████████░░░░░░░░░░░░░░░   40.77 % 
+🌙 Night                  73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   339 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Tuesday                  374 commits         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Wednesday                329 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Thursday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Friday                   281 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Saturday                 115 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Sunday                   129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   1 hr 11 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    1 hr 11 mins        █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in C** 
 
@@ -20,5 +58,5 @@ Verilog                  8 repos             ████░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 18:45:49 UTC
+ Last Updated on 04/11/2025 18:48:36 UTC
 <!--END_SECTION:waka-->

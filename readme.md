@@ -7,7 +7,7 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C616%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm an Early 🐤** 
 
@@ -62,5 +62,5 @@ Verilog                  8 repos             ████░░░░░░░�
 
 
 
- Last Updated on 06/12/2025 18:45:56 UTC
+ Last Updated on 07/12/2025 18:45:45 UTC
 <!--END_SECTION:waka-->

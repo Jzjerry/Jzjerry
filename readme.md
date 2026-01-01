@@ -5,9 +5,9 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C620%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C621%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **I'm an Early 🐤** 
 
@@ -36,14 +36,15 @@ Sunday                   186 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 22 mins       █████████████████████████   99.96 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   3 hrs 3 mins        █████████████████████████   98.54 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -59,5 +60,5 @@ C++                      8 repos             ████░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 18:49:57 UTC
+ Last Updated on 01/01/2026 18:51:15 UTC
 <!--END_SECTION:waka-->

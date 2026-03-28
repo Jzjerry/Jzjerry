@@ -5,7 +5,7 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C672%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C673%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -36,17 +36,17 @@ Sunday                   254 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 3 mins        ███████████░░░░░░░░░░░░░░   43.14 % 
-Log File                 3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Bash                     2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Text                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Scala                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Python                   6 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   40.30 % 
+Log File                 3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Bash                     2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Scala                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Text                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    18 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/03/2026 19:16:25 UTC
+ Last Updated on 28/03/2026 19:06:31 UTC
 <!--END_SECTION:waka-->

@@ -7,42 +7,6 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                71 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-🌆 Daytime                2302 commits        ██████████████░░░░░░░░░░░   54.09 % 
-🌃 Evening                1808 commits        ███████████░░░░░░░░░░░░░░   42.48 % 
-🌙 Night                  75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   852 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Tuesday                  840 commits         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Wednesday                858 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Thursday                 623 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Friday                   595 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Saturday                 198 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Sunday                   290 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -56,5 +20,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2026 20:19:21 UTC
+ Last Updated on 23/05/2026 19:44:43 UTC
 <!--END_SECTION:waka-->

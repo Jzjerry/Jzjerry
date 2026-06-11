@@ -5,9 +5,9 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C721%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C721%20hrs%2044%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -36,17 +36,17 @@ Sunday                   294 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 17 mins        ███████████████████░░░░░░   76.40 % 
-Other                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Scala                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-CSV                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Log File                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Python                   1 hr 17 mins        █████████████████████░░░░   83.89 % 
+Other                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Log File                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Scala                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-VS Code                  1 hr 41 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 41 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/06/2026 21:07:54 UTC
+ Last Updated on 11/06/2026 20:44:29 UTC
 <!--END_SECTION:waka-->

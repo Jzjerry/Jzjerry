@@ -5,8 +5,6 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C729%20hrs%2022%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -58,5 +56,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2026 19:54:18 UTC
+ Last Updated on 23/07/2026 19:56:49 UTC
 <!--END_SECTION:waka-->

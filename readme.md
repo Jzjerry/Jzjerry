@@ -5,9 +5,9 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C724%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C731%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -23,8 +23,8 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 
 ```text
 Monday                   857 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-Tuesday                  850 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Wednesday                884 commits         █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Tuesday                  851 commits         █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Wednesday                883 commits         █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
 Thursday                 623 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
 Friday                   599 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
 Saturday                 196 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
@@ -38,55 +38,55 @@ Sunday                   294 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Scala                    11 hrs 24 mins      ███████████░░░░░░░░░░░░░░   42.03 % 
-Python                   6 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Markdown                 3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-C                        1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Scala                    10 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   34.33 % 
+Python                   6 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+Markdown                 3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Other                    2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Image (png)              1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 21 mins      █████████████░░░░░░░░░░░░   52.84 % 
-Codex CLI                12 hrs 48 mins      ████████████░░░░░░░░░░░░░   47.16 % 
+VS Code                  20 hrs 39 mins      █████████████████░░░░░░░░   69.27 % 
+Codex CLI                9 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.73 % 
 
 💻 Operating System: 
-Linux                    27 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    29 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 9 mins (92.63%)
+⏱ AI Coding Time: 27 hrs 26 mins (92.06%)
 
-✍️ 6,532 lines written by AI, 189 lines written by hand (97.19% AI-written)
+✍️ 5,901 lines written by AI, 193 lines written by hand (96.83% AI-written)
 
-🔤 31,637,929 Input Tokens, 2,508,933 Output Tokens
+🔤 35,407,211 Input Tokens, 2,807,145 Output Tokens
 
-💵 $43.64 Estimated AI Cost This Week
+💵 $44.54 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 90 AI Prompts
+🧠 24 AI Sessions, 105 AI Prompts
 
-GPT                      6,762 lines         █████████████████████████   100.00 % 
+GPT                      6,121 lines         █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.19% of written lines came from AI
-📄 Detailed Prompter — average 972 characters per prompt
+🤖 AI-Driven — 96.83% of written lines came from AI
+📝 Concise Prompter — average 391 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 11.22% of changed lines were hand-edited
+🚀 High AI Trust — 12.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-C++                      9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Scala                    9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-TeX                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Python                   15 repos            ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+C++                      9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Scala                    9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+TeX                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 
 
 
 
- Last Updated on 31/08/2026 23:00:22 UTC
+ Last Updated on 01/09/2026 21:13:10 UTC
 <!--END_SECTION:waka-->

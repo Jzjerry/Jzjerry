@@ -5,9 +5,9 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C741%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C745%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -38,41 +38,40 @@ Sunday                   294 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Scala                    7 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-Python                   6 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-Markdown                 4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Other                    3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Image (png)              1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Scala                    7 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+Image (png)              4 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Markdown                 3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Python                   3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Other                    2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 20 mins      █████████████████████████   98.91 % 
-Codex CLI                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+VS Code                  26 hrs 57 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    28 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 16 mins (88.24%)
+⏱ AI Coding Time: 24 hrs (89.03%)
 
-✍️ 4,210 lines written by AI, 496 lines written by hand (89.46% AI-written)
+✍️ 3,938 lines written by AI, 494 lines written by hand (88.85% AI-written)
 
-🔤 39,611,931 Input Tokens, 2,955,345 Output Tokens
+🔤 33,686,396 Input Tokens, 2,350,272 Output Tokens
 
-💵 $46.36 Estimated AI Cost This Week
+💵 $27.17 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 100 AI Prompts
+🧠 16 AI Sessions, 78 AI Prompts
 
-GPT                      4,269 lines         █████████████████████████   100.00 % 
+GPT                      4,047 lines         █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.46% of written lines came from AI
-📝 Concise Prompter — average 123 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 21.03% of changed lines were hand-edited
+🤖 AI-Driven — 88.85% of written lines came from AI
+📝 Concise Prompter — average 130 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 21.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -88,5 +87,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 21:13:45 UTC
+ Last Updated on 04/09/2026 20:55:55 UTC
 <!--END_SECTION:waka-->

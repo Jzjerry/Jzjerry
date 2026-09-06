@@ -15,20 +15,20 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 
 ```text
 🌞 Morning                67 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-🌆 Daytime                2349 commits        ██████████████░░░░░░░░░░░   54.51 % 
-🌃 Evening                1816 commits        ███████████░░░░░░░░░░░░░░   42.14 % 
+🌆 Daytime                2353 commits        ██████████████░░░░░░░░░░░   54.56 % 
+🌃 Evening                1816 commits        ███████████░░░░░░░░░░░░░░   42.11 % 
 🌙 Night                  77 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   857 commits         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-Tuesday                  852 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Wednesday                888 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Thursday                 623 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Friday                   599 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Saturday                 196 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Sunday                   294 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Monday                   857 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Tuesday                  852 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Wednesday                889 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+Thursday                 623 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Friday                   599 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Saturday                 196 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Sunday                   297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 ```
 
 
@@ -38,40 +38,40 @@ Sunday                   294 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Scala                    7 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.87 % 
-Image (png)              4 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Markdown                 3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Python                   3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Other                    2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Scala                    7 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+Image (png)              4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Python                   4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Markdown                 4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Other                    2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 57 mins      █████████████████████████   100.00 % 
+VS Code                  29 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    26 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs (89.03%)
+⏱ AI Coding Time: 25 hrs 58 mins (87.27%)
 
-✍️ 3,938 lines written by AI, 494 lines written by hand (88.85% AI-written)
+✍️ 6,504 lines written by AI, 550 lines written by hand (92.2% AI-written)
 
-🔤 33,686,396 Input Tokens, 2,350,272 Output Tokens
+🔤 42,382,079 Input Tokens, 2,594,630 Output Tokens
 
-💵 $27.17 Estimated AI Cost This Week
+💵 $70.71 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 78 AI Prompts
+🧠 19 AI Sessions, 86 AI Prompts
 
-GPT                      4,047 lines         █████████████████████████   100.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      6,602 lines         █████████████████████████   99.46 % 
+Deepseek                 36 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.85% of written lines came from AI
-📝 Concise Prompter — average 130 characters per prompt
+🤖 AI-Driven — 92.2% of written lines came from AI
+📝 Concise Prompter — average 128 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 21.86% of changed lines were hand-edited
+🚀 High AI Trust — 15.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -87,5 +87,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 20:34:01 UTC
+ Last Updated on 06/09/2026 20:36:39 UTC
 <!--END_SECTION:waka-->

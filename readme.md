@@ -15,20 +15,20 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 
 ```text
 🌞 Morning                67 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-🌆 Daytime                2507 commits        ██████████████░░░░░░░░░░░   54.64 % 
-🌃 Evening                1936 commits        ███████████░░░░░░░░░░░░░░   42.20 % 
+🌆 Daytime                2509 commits        ██████████████░░░░░░░░░░░   54.66 % 
+🌃 Evening                1936 commits        ███████████░░░░░░░░░░░░░░   42.18 % 
 🌙 Night                  78 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   927 commits         █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Tuesday                  896 commits         █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Wednesday                937 commits         █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Tuesday                  896 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Wednesday                938 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
 Thursday                 664 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Friday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Friday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
 Saturday                 208 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Sunday                   318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Sunday                   319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 ```
 
 
@@ -38,41 +38,41 @@ Sunday                   318 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 45 mins       ████████████░░░░░░░░░░░░░   49.20 % 
-Markdown                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Scala                    1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-YAML                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Text                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Python                   8 hrs 25 mins       ████████████░░░░░░░░░░░░░   46.58 % 
+YAML                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Scala                    1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Markdown                 1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 6 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    19 hrs 49 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 5 mins (76.13%)
+⏱ AI Coding Time: 13 hrs 7 mins (72.48%)
 
-✍️ 15,018 lines written by AI, 469 lines written by hand (96.97% AI-written)
+✍️ 12,452 lines written by AI, 416 lines written by hand (96.77% AI-written)
 
-🔤 15,793,474 Input Tokens, 1,592,452 Output Tokens
+🔤 7,097,791 Input Tokens, 1,348,094 Output Tokens
 
-💵 $889.93 Estimated AI Cost This Week
+💵 $846.39 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 84 AI Prompts
+🧠 23 AI Sessions, 76 AI Prompts
 
-GPT                      8,066 lines         █████████████░░░░░░░░░░░░   53.03 % 
-Deepseek                 7,143 lines         ████████████░░░░░░░░░░░░░   46.97 % 
+Deepseek                 7,107 lines         ██████████████░░░░░░░░░░░   56.32 % 
+GPT                      5,511 lines         ███████████░░░░░░░░░░░░░░   43.68 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.97% of written lines came from AI
-📝 Concise Prompter — average 85 characters per prompt
+🤖 AI-Driven — 96.77% of written lines came from AI
+📝 Concise Prompter — average 82 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.36% of changed lines were hand-edited
+🚀 High AI Trust — 3.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -88,5 +88,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 20:45:57 UTC
+ Last Updated on 13/09/2026 21:02:31 UTC
 <!--END_SECTION:waka-->

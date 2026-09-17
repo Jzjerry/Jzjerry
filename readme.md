@@ -15,19 +15,19 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 
 ```text
 🌞 Morning                67 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-🌆 Daytime                2513 commits        ██████████████░░░░░░░░░░░   54.70 % 
-🌃 Evening                1936 commits        ███████████░░░░░░░░░░░░░░   42.14 % 
+🌆 Daytime                2517 commits        ██████████████░░░░░░░░░░░   54.74 % 
+🌃 Evening                1936 commits        ███████████░░░░░░░░░░░░░░   42.11 % 
 🌙 Night                  78 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   927 commits         █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Tuesday                  896 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Wednesday                942 commits         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Thursday                 664 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Friday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Saturday                 208 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Monday                   927 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Tuesday                  896 commits         █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Wednesday                946 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Thursday                 664 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Friday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Saturday                 208 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 Sunday                   319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 ```
 
@@ -38,39 +38,23 @@ Sunday                   319 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Text                     1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Scala                    1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Scala                    1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Text                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+YAML                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Markdown                 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Python                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (4.87%)
-
-✍️ 30 lines written by AI, 673 lines written by hand (4.27% AI-written)
-
-🔤 450,564 Input Tokens, 225,043 Output Tokens
-
-💵 $1.34 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-GPT                      40 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.27% of written lines came from AI
-📝 Concise Prompter — average 129 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 96.36% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -86,5 +70,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 21:33:08 UTC
+ Last Updated on 17/09/2026 21:36:25 UTC
 <!--END_SECTION:waka-->

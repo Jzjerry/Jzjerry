@@ -5,11 +5,11 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C772%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C773%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2010%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -38,17 +38,17 @@ Sunday                   319 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Scala                    2 hrs 26 mins       ██████████████░░░░░░░░░░░   54.30 % 
-Python                   52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-C                        39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Makefile                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Scala                    1 hr 40 mins        ███████████░░░░░░░░░░░░░░   43.56 % 
+Python                   1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+C                        38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Makefile                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -70,5 +70,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 22:08:25 UTC
+ Last Updated on 22/09/2026 21:35:31 UTC
 <!--END_SECTION:waka-->

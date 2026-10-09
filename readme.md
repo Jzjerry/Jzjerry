@@ -5,9 +5,9 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C786%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C787%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -15,20 +15,20 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 
 ```text
 🌞 Morning                67 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-🌆 Daytime                2537 commits        ██████████████░░░░░░░░░░░   54.93 % 
-🌃 Evening                1937 commits        ██████████░░░░░░░░░░░░░░░   41.94 % 
+🌆 Daytime                2538 commits        ██████████████░░░░░░░░░░░   54.94 % 
+🌃 Evening                1937 commits        ██████████░░░░░░░░░░░░░░░   41.93 % 
 🌙 Night                  78 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   928 commits         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Tuesday                  896 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Wednesday                965 commits         █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-Thursday                 664 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Tuesday                  896 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Wednesday                966 commits         █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Thursday                 664 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 Friday                   639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
 Saturday                 208 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Sunday                   319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Sunday                   319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 ```
 
 
@@ -38,23 +38,23 @@ Sunday                   319 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     47 mins             ██████████░░░░░░░░░░░░░░░   40.70 % 
-Python                   40 mins             █████████░░░░░░░░░░░░░░░░   35.40 % 
-YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+JSON                     47 mins             ██████████░░░░░░░░░░░░░░░   40.44 % 
+Python                   40 mins             █████████░░░░░░░░░░░░░░░░   35.17 % 
+YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 56 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 55 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (1.77%)
+⏱ AI Coding Time: 2 mins (1.76%)
 
 ✍️ 0 lines written by AI, 184 lines written by hand (0.0% AI-written)
 
@@ -84,5 +84,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 23:32:36 UTC
+ Last Updated on 09/10/2026 22:50:57 UTC
 <!--END_SECTION:waka-->

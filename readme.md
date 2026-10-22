@@ -5,7 +5,7 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C791%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C791%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2058%20mins-blue?style=flat)
 
@@ -38,18 +38,17 @@ Sunday                   316 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-C                        25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-Markdown                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-V                        15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-TeX                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Python                   38 mins             ███████████░░░░░░░░░░░░░░   43.18 % 
+C                        25 mins             ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+TeX                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Makefile                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🔥 Editors: 
-VS Code                  1 hr 56 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 53 mins        ████████████████████████░   96.92 % 
-WSL                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Linux                    1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -71,5 +70,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 21:55:38 UTC
+ Last Updated on 22/10/2026 21:51:14 UTC
 <!--END_SECTION:waka-->

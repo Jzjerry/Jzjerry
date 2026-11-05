@@ -5,7 +5,7 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 ## ✨Fancy Stuffs✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=jzjerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C796%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C797%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2058%20mins-blue?style=flat)
 
@@ -38,17 +38,17 @@ Sunday                   308 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 43 mins        ████████████████████░░░░░   78.65 % 
-Bash                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Log File                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Markdown                 1 hr 34 mins        ███████████████████░░░░░░   76.41 % 
+Bash                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Scala                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 11 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -70,5 +70,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2026 23:51:58 UTC
+ Last Updated on 05/11/2026 23:48:09 UTC
 <!--END_SECTION:waka-->

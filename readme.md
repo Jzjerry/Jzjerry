@@ -4,30 +4,26 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 
 ## ✨Fancy Stuffs✨
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C797%20hrs%205%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2058%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                66 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-🌆 Daytime                2453 commits        ██████████████░░░░░░░░░░░   54.46 % 
-🌃 Evening                1915 commits        ███████████░░░░░░░░░░░░░░   42.52 % 
+🌞 Morning                67 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+🌆 Daytime                2467 commits        ██████████████░░░░░░░░░░░   54.66 % 
+🌃 Evening                1909 commits        ███████████░░░░░░░░░░░░░░   42.30 % 
 🌙 Night                  70 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   911 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Tuesday                  895 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Wednesday                908 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Thursday                 654 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Friday                   617 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Saturday                 211 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Sunday                   308 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Monday                   911 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Tuesday                  895 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Wednesday                920 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+Thursday                 648 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Friday                   617 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Saturday                 214 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Sunday                   308 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 ```
 
 
@@ -37,17 +33,17 @@ Sunday                   308 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 34 mins        ███████████████████░░░░░░   76.41 % 
-Bash                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Scala                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Markdown                 1 hr 9 mins         ███████████████████░░░░░░   76.82 % 
+TeX                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 3 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -61,7 +57,7 @@ No AI Coding Activity Tracked This Week
 ```text
 Python                   15 repos            ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
 C++                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-TeX                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
@@ -69,5 +65,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2026 23:48:09 UTC
+ Last Updated on 19/11/2026 00:37:39 UTC
 <!--END_SECTION:waka-->

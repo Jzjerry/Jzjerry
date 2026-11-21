@@ -4,7 +4,7 @@ Click [here](https://jzjerry.github.io/about/) to learn more about me!
 
 ## ✨Fancy Stuffs✨
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C799%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C799%20hrs%2034%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2058%20mins-blue?style=flat)
 
@@ -37,17 +37,17 @@ Sunday                   308 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 1 min          ███████████████░░░░░░░░░░   58.95 % 
-JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-TeX                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Python                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+JSON                     15 mins             ██████████████░░░░░░░░░░░   55.56 % 
+Python                   11 mins             ███████████░░░░░░░░░░░░░░   42.84 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
+VS Code                  27 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 45 mins        █████████████████████████   100.00 % 
+Linux                    27 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -69,5 +69,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 00:07:54 UTC
+ Last Updated on 21/11/2026 23:33:43 UTC
 <!--END_SECTION:waka-->

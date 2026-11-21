@@ -37,17 +37,17 @@ Sunday                   308 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 1 min          ███████████████████░░░░░░   75.81 % 
-TeX                      15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Markdown                 1 hr 1 min          ███████████████░░░░░░░░░░   58.95 % 
+JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+TeX                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Python                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 21 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -69,5 +69,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2026 00:47:43 UTC
+ Last Updated on 21/11/2026 00:07:54 UTC
 <!--END_SECTION:waka-->
